@@ -22,6 +22,8 @@ List the programming languages, frameworks, libraries, and tools that you are fa
 
 ## GitHub Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thechetan9&show_icons=true&locale=en&layout=compact" alt="thechetan9" /></p>
+
 Include a summary of your GitHub stats, such as the number of repositories, contributions, and followers. You can use shields or badges to display this information.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thechetan9&show_icons=true)
