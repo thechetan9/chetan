@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about building and improving the engineering culture and diversity. As a self-motivated professional, I enjoy solving problems and merging my passion for usability and user experience with my technical knowledge to create cool digital experiences. I have hands-on experience in Agile methodology and collaborating with business owners and end-users in a team-oriented environment.. Feel free to explore my repositories and projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thechetan9&label=Profile%20views&color=0e75b6&style=flat" alt="thechetan9" /> </p>
+
 ## About Me
 
 - 🔭 I'm currently working on something cool.
