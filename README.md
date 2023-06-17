@@ -22,7 +22,7 @@ List the programming languages, frameworks, libraries, and tools that you are fa
 
 Include a summary of your GitHub stats, such as the number of repositories, contributions, and followers. You can use shields or badges to display this information.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thechetan9&show_icons=true)
 
 ## Connect with Me
 
