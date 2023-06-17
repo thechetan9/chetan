@@ -23,7 +23,7 @@ List the programming languages, frameworks, libraries, and tools that you are fa
 ## GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thechetan9&show_icons=true&locale=en&layout=compact" alt="thechetan9" /></p>
-[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thechetan9&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thechetan9&show_icons=true"/></p>
 
 ## Connect with Me
 
