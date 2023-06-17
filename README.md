@@ -29,7 +29,7 @@ Include a summary of your GitHub stats, such as the number of repositories, cont
 Let others know how they can connect with you and find more about your work.
 
 - GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: Chetan([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/chetan-anand-19289986/))
+- LinkedIn: Chetan https://www.linkedin.com/in/chetan-anand-19289986/
 - Twitter: [@yourusername](https://twitter.com/yourusername)
 
 Feel free to reach out if you have any questions, collaborations, or just want to say hi! 😊
