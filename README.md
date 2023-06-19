@@ -35,3 +35,5 @@ Let others know how they can connect with you and find more about your work.
 - Portfolio: [itschetan.info](https://itschetan.info/)
 
 Feel free to reach out if you have any questions, collaborations, or just want to say hi! 😊
+
+![](https://hit.yhype.me/github/profile?user_id=50704927)
